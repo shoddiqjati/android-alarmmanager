@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Alarm Manager</string>
+    <string name="pick_time">Pick a time</string>
+    <string name="start">start</string>
+    <string name="time_placeholder">00s</string>
+    <string name="ok">ok</string>
+</resources>
